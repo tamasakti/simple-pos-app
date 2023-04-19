@@ -5,6 +5,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.category-aktif {
+  background-color: #22668a;
+  color: white;
+  text-decoration: underline;
+}
+
 .navbar {
   background-color: #22668a;
 }

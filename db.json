@@ -185,39 +185,55 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 1,
-      "total_harga": 10000,
+      "jumlah": 2,
+      "total_harga": "12000[object Object]",
       "product": {
-        "id": 6,
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Nasi Rames",
+        "harga": 12000,
         "is_ready": true,
-        "gambar": "bakso.jpg",
+        "gambar": "nasi-rames.jpg",
         "category": {
           "id": 1,
           "nama": "Makanan"
         }
       },
-      "keterangan": "Bakso Kosongan",
       "id": 1
     },
     {
       "jumlah": 1,
-      "total_harga": 13000,
+      "total_harga": 18000,
       "product": {
-        "id": 5,
-        "kode": "K-05",
-        "nama": "Mie Goreng",
-        "harga": 13000,
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Lontong Opor Ayam",
+        "harga": 18000,
         "is_ready": true,
-        "gambar": "mie-goreng.jpg",
+        "gambar": "lontong-opor-ayam.jpg",
         "category": {
           "id": 1,
           "nama": "Makanan"
         }
       },
       "id": 2
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 14000,
+      "product": {
+        "id": 7,
+        "kode": "K-07",
+        "nama": "Mie Ayam Bakso",
+        "harga": 14000,
+        "is_ready": true,
+        "gambar": "mie-ayam-bakso.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "id": 3
     }
   ],
   "pesanans": [
